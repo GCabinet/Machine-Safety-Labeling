@@ -66,3 +66,6 @@ The extension works directly inside LibreOffice Draw and is designed for fast an
 ## License
 
 Open-source project designed for creating and managing machine safety labeling inside LibreOffice Draw.
+
+<img width="1048" height="751" alt="image" src="https://github.com/user-attachments/assets/b5c50ebf-d3b7-43c7-aa83-56256c2335e6" />
+
